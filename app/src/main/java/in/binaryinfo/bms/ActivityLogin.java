@@ -8,7 +8,7 @@ public class ActivityLogin extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        // Comment
+        // This is the layout file i use
         setContentView(R.layout.activity_login);
     }
 }
