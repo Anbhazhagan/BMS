@@ -3,12 +3,12 @@ package in.binaryinfo.bms;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class ActivityLogin extends AppCompatActivity {
+public class ActivityMain extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // This is the layout file i use
-        setContentView(R.layout.activity_login);
+        setContentView(R.layout.activity_main);
     }
 }
